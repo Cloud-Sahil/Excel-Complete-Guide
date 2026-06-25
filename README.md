@@ -1,1 +1,1 @@
-# https://images.openai.com/static-rsc-4/6A3RyD7LvMbO6ZtrRyldoA-eYbPagt7aQehSkYUkJNVm-QxSieitSx3R74f9L2Qv4SK-Oq4WITEjXOKyUKnEv6f7ZGK9PbQ__1Lel7vqQcc3x0jP4f_AJiKFpKYWpGiR41rB3t_7f-TKWrkcuvnwgdz_yfPfgmjo7jv7VrzvjJUIWDjnHg5UYMU2BspjE2bf?purpose=fullsizeExcel-Complete-Guide
+# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/4bb610d4-f35d-4f99-aa8a-1988728a9baa" /> Excel-Complete-Guide
