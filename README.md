@@ -1,8 +1,4 @@
-# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/4bb610d4-f35d-4f99-aa8a-1988728a9baa" /> Excel-Complete-Guide
-# 📊 Excel Complete Guide — From Zero to Pro
-> **Modular · Interview-Ready · Job-Ready · AI-Powered**
-> Covers: Shortcuts · Roadmap · Formulas · Data Analyst · Data Entry · PDF Conversion · Excel+AI · Data Splitting · Data Cleaning · Reporting · Dashboards · Formula Writing
-
+# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/4bb610d4-f35d-4f99-aa8a-1988728a9baa" /> Excel-Complete-Guide From Zero to Pro
 ---
 
 ## 📚 Table of Contents
